@@ -2,7 +2,7 @@
   "name": "جدول المباريات",
   "short_name": "المباريات",
   "description": "تطبيق لإدارة وتنظيم جداول مباريات الدوريات والبطولات.",
-  "start_url": "./جدول المباريات.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1f2937",
